@@ -44,7 +44,8 @@ return `┏━🔥࿗ 𝙱𝚛𝚒𝚣𝚊𝚜-𝚋𝚘𝚝 𝚞𝚕𝚝𝚒𝚖
 ❁❧ *${p}sticker* ❮caption, reply img❯
 ❁❧ *${p}fstiker* ❮caption, reply img❯
 ❁❧ *${p}fsticker* ❮caption, reply img❯
-
+❁❧ *${p}attp* ❮txt❯
+❁❧ *${p}macaco*
 
 ♨♨ ༻💀 𝚛𝚘𝚕𝚎𝚝𝚊 𝚛𝚞𝚜𝚜𝚊 💀༺ ♨♨
 ｡☆✼★━━━━━━ - ━━━━━━★✼☆｡
@@ -54,6 +55,33 @@ return `┏━🔥࿗ 𝙱𝚛𝚒𝚣𝚊𝚜-𝚋𝚘𝚝 𝚞𝚕𝚝𝚒𝚖
 ❁❧ *${p}roletarussaeasy*
 ❁❧ *${p}roletarussapac*
 
+
+:.｡○ ༻📷 𝚎𝚍𝚒𝚝𝚘𝚛 𝚍𝚎 𝚏𝚘𝚝𝚘𝚜 📷༺ ○｡.:
+｡☆✼★━━━━━━ - ━━━━━━★✼☆｡
+
+❁❧ *${p}cropimg* ❮lag❯ ❮alt❯
+❁❧ *${p}bwimg*
+❁❧ *${p}identifyimg*
+❁❧ *${p}resizeimg* ❮lag❯ ❮alt❯
+❁❧ *${p}blurimg* ❮rad❯ ❮sig❯
+❁❧ *${p}flowerlogo* ❮txt❯
+❁❧ *${p}matrixlogo* ❮txt❯
+❁❧ *${p}narutologo* ❮txt❯
+❁❧ *${p}phlogo* ❮t1❯ | ❮t2❯
+❁❧ *${p}mineconquista* ❮t1❯ | ❮t2❯
+❁❧ *${p}shadow* ❮txt❯
+❁❧ *${p}glitch* ❮t1❯ | ❮t2❯
+❁❧ *${p}ravetxt* ❮t1❯ | ❮t2❯
+❁❧ *${p}woodtxt* ❮t1❯ | ❮t2❯
+❁❧ *${p}neon* ❮t1❯ | ❮t2❯
+❁❧ *${p}sunset* ❮t1❯ | ❮t2❯
+❁❧ *${p}gimage* ❮txt❯
+❁❧ *${p}pglass* ❮txt❯
+❁❧ *${p}neonligth* ❮txt❯
+❁❧ *${p}coffe* ❮txt❯
+❁❧ *${p}galaxywp* ❮txt❯
+❁❧ *${p}whatis* ❮txt❯
+❁❧ *${p}txt3d* ❮txt❯
 
 ⚆ _ ⚆ ༻🔍 𝙿𝚎𝚜𝚚𝚞𝚒𝚜𝚊 🔎 ༺ ⚆ _ ⚆
 ｡☆✼★━━━━━━ - ━━━━━━★✼☆｡
@@ -135,14 +163,6 @@ return `┏━🔥࿗ 𝙱𝚛𝚒𝚣𝚊𝚜-𝚋𝚘𝚝 𝚞𝚕𝚝𝚒𝚖
 ▀▄▀▄▀▄ ༻🧾 𝚃𝚎𝚡𝚝𝚘 🧾༺ ▄▀▄▀▄▀
 ｡☆✼★━━━━━━ - ━━━━━━★✼☆｡
 
-❁❧ *${p}macaco*
-❁❧ *${p}flowerlogo* ❮txt❯
-❁❧ *${p}matrixlogo* ❮txt❯
-❁❧ *${p}narutologo* ❮txt❯
-❁❧ *${p}phlogo* ❮t1❯ | ❮t2❯
-❁❧ *${p}mineconquista* ❮t1❯ | ❮t2❯
-❁❧ *${p}attp* ❮txt❯
-❁❧ *${p}shadow* ❮txt❯
 ❁❧ *${p}fakeidentity*
 ❁❧ *${p}txtcmd*
 ❁❧ *${p}installbot*
@@ -150,18 +170,6 @@ return `┏━🔥࿗ 𝙱𝚛𝚒𝚣𝚊𝚜-𝚋𝚘𝚝 𝚞𝚕𝚝𝚒𝚖
 ❁❧ *${p}wame*
 ❁❧ *${p}repeat* ❮txt❯
 ❁❧ *${p}ocr* ❮caption, reply video❯
-❁❧ *${p}glitch* ❮t1❯ | ❮t2❯
-❁❧ *${p}ravetxt* ❮t1❯ | ❮t2❯
-❁❧ *${p}woodtxt* ❮t1❯ | ❮t2❯
-❁❧ *${p}neon* ❮t1❯ | ❮t2❯
-❁❧ *${p}sunset* ❮t1❯ | ❮t2❯
-❁❧ *${p}gimage* ❮txt❯
-❁❧ *${p}pglass* ❮txt❯
-❁❧ *${p}neonligth* ❮txt❯
-❁❧ *${p}coffe* ❮txt❯
-❁❧ *${p}galaxywp* ❮txt❯
-❁❧ *${p}whatis* ❮txt❯
-❁❧ *${p}txt3d* ❮txt❯
 ❁❧ *${p}nethunter*
 ❁❧ *${p}idioma*
 ❁❧ *${p}frase*
@@ -190,15 +198,9 @@ return `┏━🔥࿗ 𝙱𝚛𝚒𝚣𝚊𝚜-𝚋𝚘𝚝 𝚞𝚕𝚝𝚒𝚖
 ❁❧ *${p}dbinary* ❮txt❯
 
 
-✧･ﾟ: ༻🔮 𝙿𝚛𝚎𝚟𝚒𝚜𝚘̃𝚎𝚜 🔮༺ :･ﾟ✧
+☆.｡.:* ༻🏆 𝚛𝚊𝚗𝚔𝚒𝚗𝚐𝚜 🏆༺ *:.｡.☆
 ｡☆✼★━━━━━━ - ━━━━━━★✼☆｡
 
-❁❧ *${p}cassino*
-❁❧ *${p}ship* ❮num1❯ ❮num2❯
-❁❧ *${p}corno* ❮num1❯
-❁❧ *${p}nazista* ❮num1❯
-❁❧ *${p}comunista* ❮num1❯
-❁❧ *${p}dado*
 ❁❧ *${p}ranklindo*
 ❁❧ *${p}rankfeio*
 ❁❧ *${p}rankgado*
@@ -208,6 +210,17 @@ return `┏━🔥࿗ 𝙱𝚛𝚒𝚣𝚊𝚜-𝚋𝚘𝚝 𝚞𝚕𝚝𝚒𝚖
 ❁❧ *${p}rankfofo*
 ❁❧ *${p}rankotaku*
 ❁❧ *${p}rankgay*
+
+
+✧･ﾟ: ༻🔮 𝙿𝚛𝚎𝚟𝚒𝚜𝚘̃𝚎𝚜 🔮༺ :･ﾟ✧
+｡☆✼★━━━━━━ - ━━━━━━★✼☆｡
+
+❁❧ *${p}cassino*
+❁❧ *${p}ship* ❮num1❯ ❮num2❯
+❁❧ *${p}corno* ❮num1❯
+❁❧ *${p}nazista* ❮num1❯
+❁❧ *${p}comunista* ❮num1❯
+❁❧ *${p}dado*
 ❁❧ *${p}gay* ❮num1❯
 ❁❧ *${p}qi* ❮num1❯
 ❁❧ *${p}seudia* ❮num1❯
@@ -230,6 +243,22 @@ return `┏━🔥࿗ 𝙱𝚛𝚒𝚣𝚊𝚜-𝚋𝚘𝚝 𝚞𝚕𝚝𝚒𝚖
 ❁❧ *${p}qrcoderb* ❮txt❯
 ❁❧ *${p}qrcodebr* ❮txt❯
 
+• ••´º´•» ༻❌ 𝙰𝚗𝚝𝚒𝚜 ❌༺ «•´º´•• •
+｡☆✼★━━━━━━ - ━━━━━━★✼☆｡
+
+❁❧ *${p}antidoc* ❮1 or 0❯
+❁❧ *${p}antiloc* ❮1 or 0❯
+❁❧ *${p}antiimg* ❮1 or 0❯
+❁❧ *${p}antipalavra* ❮1 or 0❯
+❁❧ *${p}antivideo* ❮1 or 0❯
+❁❧ *${p}antisticker* ❮1 or 0❯
+❁❧ *${p}antiaudio* ❮1 or 0❯
+❁❧ *${p}antictt* ❮1 or 0❯
+❁❧ *${p}antilink* ❮1 or 0❯
+❁❧ *${p}antiporn* ❮1 or 0❯
+❁❧ *${p}antifake* ❮1 or 0❯
+❁❧ *${p}antilinkhard* ❮1 or 0❯
+
 
 ╚»★«╝ ༻👥 𝙶𝚛𝚞𝚙𝚘𝚜 👥༺ ╚»★«╝
 ｡☆✼★━━━━━━ - ━━━━━━★✼☆｡
@@ -243,28 +272,17 @@ return `┏━🔥࿗ 𝙱𝚛𝚒𝚣𝚊𝚜-𝚋𝚘𝚝 𝚞𝚕𝚝𝚒𝚖
 ❁❧ *${p}listonline*
 ❁❧ *${p}leave*
 ❁❧ *${p}kick* ❮dial num❯
+❁❧ *${p}ban* ❮reply message❯
 ❁❧ *${p}promote* ❮dial num❯
 ❁❧ *${p}demote* ❮dial num❯
 ❁❧ *${p}add* ❮num❯
-❁❧ *${p}roletarussablock* ❮1 or 0❯
+❁❧ *${p}roletrussablock* ❮1 or 0❯
 ❁❧ *${p}welcome* ❮1 or 0❯
-❁❧ *${p}antidoc* ❮1 or 0❯
-❁❧ *${p}antiloc* ❮1 or 0❯
-❁❧ *${p}antiimg* ❮1 or 0❯
-❁❧ *${p}antipalavra* ❮1 or 0❯
-❁❧ *${p}antivideo* ❮1 or 0❯
-❁❧ *${p}antisticker* ❮1 or 0❯
-❁❧ *${p}antiaudio* ❮1 or 0❯
-❁❧ *${p}antictt* ❮1 or 0❯
 ❁❧ *${p}simih* ❮1 or 0❯
-❁❧ *${p}antilink* ❮1 or 0❯
-❁❧ *${p}antiporn* ❮1 or 0❯
-❁❧ *${p}antifake* ❮1 or 0❯
 ❁❧ *${p}autostickerimg* ❮1 or 0❯
 ❁❧ *${p}onmodgrupo*
 ❁❧ *${p}offmodgrupo*
 ❁❧ *${p}autoreply* ❮1 or 0❯
-❁❧ *${p}antilinkhard* ❮1 or 0❯
 ❁❧ *${p}marcar*
 ❁❧ *${p}marcar2*
 ❁❧ *${p}marcar3*
@@ -304,8 +322,8 @@ return `┏━🔥࿗ 𝙱𝚛𝚒𝚣𝚊𝚜-𝚋𝚘𝚝 𝚞𝚕𝚝𝚒𝚖
 :..｡o○ ༻😎 𝙲𝚛𝚒𝚊𝚍𝚘𝚛 😎༺ ○o｡..:
 ｡☆✼★━━━━━━ - ━━━━━━★✼☆｡
 
-❁❧ *${p}blockcmd* ❮cmd no prefix❯
-❁❧ *${p}unblockcmd* ❮cmd no prefix❯
+❁❧ *${p}blockcmd* ❮cmd less prefix❯
+❁❧ *${p}unblockcmd* ❮cmd less prefix❯
 ❁❧ *${p}alerta* ❮txt❯
 ❁❧ *${p}addpalavra* ❮txt❯
 ❁❧ *${p}removepalavra* ❮txt❯

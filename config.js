@@ -68,6 +68,8 @@ const textmsgnig = 'Konbanwa Onii-chan, espero que tenha tido um bom dia ☺️'
 const msgerr = 'Deu erro, tente novamente :/'
 // mensagem de erro
 
+const notregister = `*Comando não registrado, escreva ${prefix}menu para ver a lista de comandos*`
+
 // MENSAGENS DE AUTOREPLY
 
 const botlindo = 'Bakaaaa 😣😣'
@@ -121,6 +123,7 @@ const vcard = 'BEGIN:VCARD\n'
 
 
 // Nem ouse mexer aqui se n quiser que de erro
+exports.notregister = notregister
 exports.qnttravahardroleta = qnttravahardroleta
 exports.blockedcmdmsg = blockedcmdmsg
 exports.blockedmsg = blockedmsg
